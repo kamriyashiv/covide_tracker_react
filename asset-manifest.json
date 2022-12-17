@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covide_tracker_react/static/css/main.124c538c.css",
+    "main.js": "/covide_tracker_react/static/js/main.f2502cab.js",
+    "index.html": "/covide_tracker_react/index.html",
+    "main.124c538c.css.map": "/covide_tracker_react/static/css/main.124c538c.css.map",
+    "main.f2502cab.js.map": "/covide_tracker_react/static/js/main.f2502cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.124c538c.css",
+    "static/js/main.f2502cab.js"
+  ]
+}
